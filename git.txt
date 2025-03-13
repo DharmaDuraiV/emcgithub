@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 haiiii Gokul
+=======
+hai everyOne welcome to node js
+>>>>>>> gitbranch1
